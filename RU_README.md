@@ -8,3 +8,5 @@
 
 - **[LIT](https://github.com/username000101/LIT)** (немножка про LIT:
   [ещё одна гиперссылка](https://github.com/username000101/username000101/tree/RU_LIT.md))
+
+  **!! Ссылки пока ведут на несуществующие файлы, дэм !!**
